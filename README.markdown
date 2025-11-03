@@ -1,0 +1,1 @@
+[WSDM 2026] Official code for our paper "CAT-ID²: Category-Tree Integrated Document Identifier Learning for Generative Retrieval In E-commerce". Code is currently being cleaned up and will be released soon.
